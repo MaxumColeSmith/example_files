@@ -1,0 +1,23 @@
+{
+  "name": "practice-problems",
+  "version": "1.0.0",
+  "description": "Use `npx ts-node` to run files.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxumColeSmith/example_files.git"
+  },
+  "author": "Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxumColeSmith/example_files/issues"
+  },
+  "homepage": "https://github.com/MaxumColeSmith/example_files#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
