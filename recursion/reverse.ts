@@ -1,6 +1,6 @@
 // make it recursively
 
-function reverse(stringToReverse: string): string {
+export const reverse = (stringToReverse: string): string => {
     if (stringToReverse.length === 0) return '';
     const lastChar = stringToReverse[stringToReverse.length - 1];
     const subString = stringToReverse.substring(0, stringToReverse.length - 1);
